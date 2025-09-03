@@ -37,7 +37,7 @@ body{
   padding: 15px;
   width: 80%;
   font-size: 16px;
-  color: #ed7582;
+  color: #6d7582;
   border: none;
   outline: none;
   margin-bottom: 25px;
@@ -58,5 +58,5 @@ body{
 }
 
 .neumorphic-button:active {
-  
+  box-shadow: inset 5px 5px 10px #a3b1c6, inset -5px -5px 10px #ffffff;
 }
