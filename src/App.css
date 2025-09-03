@@ -42,3 +42,12 @@ body{
   outline: none;
   margin-bottom: 25px;
 }
+
+
+.neumorphic-input::placeholder {
+  color: #a3b1c6
+}
+
+.neumorphic-button {
+  
+}
