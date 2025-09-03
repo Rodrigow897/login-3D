@@ -7,3 +7,14 @@ body{
   background-color: #e0e5ec;
   font-family: Arial, sans-serif;
 }
+
+.neumorphic {
+  background-color: #e0e5ec;
+  border-radius: 20px;
+  box-shadow: 10px 10px 20px #a3b1c6, -10px -10px 20px #ffffff;
+}
+
+
+.neumorphic-inset {
+  
+}
